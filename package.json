@@ -1,11 +1,15 @@
 {
   "name": "@codetanish/chaiwindcss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "chaiwindcss is a inline css utility engine",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "keywords": ["css", "utility", "styling"],
+  "keywords": [
+    "css",
+    "utility",
+    "styling"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
