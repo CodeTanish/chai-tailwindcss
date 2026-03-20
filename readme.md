@@ -37,13 +37,13 @@ npm install @codetanish/chaiwindcss
   </p>
 
   <script type="module">
-    import { applyStyle } from './src/applyStyle.js';
+    import { applyStyle } from "@codetanish/chaiwindcss";
 
     // Apply styles for existing nodes
-    applyStyle(document);
+    applyStyle();
 
     // If you create elements later, re-run
-    // applyStyle(document);
+    // applyStyle();
   </script>
 </body>
 </html>
