@@ -1,5 +1,5 @@
 {
-  "name": "chaiwindcss",
+  "name": "@codetanish/chaiwindcss",
   "version": "0.0.1",
   "description": "chaiwindcss is a inline css utility engine",
   "type": "module",
